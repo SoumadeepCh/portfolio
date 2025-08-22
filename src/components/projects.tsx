@@ -25,21 +25,21 @@ const projects = [
 			"NextJS",
 			"Tailwind",
 		],
-		githubLink: "#", // Replace with actual GitHub link
+		githubLink: "https://github.com/SoumadeepCh/webular",
 	},
 	{
 		title: "Graphite – Interview Mock Practice Platform",
 		description:
 			"A platform made to practice HTML, CSS, JS basics with questions and a code editor. Features: CRUD operations for creating questions for admins only.",
 		technologies: ["HTML", "CSS", "JavaScript"],
-		githubLink: "#", // Replace with actual GitHub link
+		githubLink: "https://github.com/SoumadeepCh/graphite",
 	},
 	{
 		title: "Vire – YouTube Clone",
 		description:
 			"Built a fully functional YouTube clone with video upload, playback, likes/dislikes, subscriptions, and comments. Real-time video uploading and interaction.",
 		technologies: ["NextJS", "Node.js", "MongoDB", "Express"],
-		githubLink: "#", // Replace with actual GitHub link
+		githubLink: "https://github.com/SoumadeepCh/vire",
 	},
 ];
 
