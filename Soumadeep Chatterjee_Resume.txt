@@ -1,0 +1,40 @@
+Soumadeep Chatterjee
+deep951india@gmail.com | +917980691950 | LinkedIn | GitHub
+
+SUMMARY
+    B.Tech Computer Science student (2022–2026) passionate about learning and building through code. Started coding out of curiosity and fun, now experienced in creating self-use tools like browser extensions and web apps. Constantly exploring new technologies, solving real-world problems, and building projects ranging from full-stack platforms to AI-driven solutions.
+SKILLS
+  Languages: Java, C, Python, JavaScript, TypeScript, SQL
+  Web Technologies: HTML, CSS, Tailwind CSS, NextJS
+  Backend & Databases: Node.js, Express.js, MongoDB, RESTful APIs
+  Frameworks & Tools: React, Git, GitHub, AI(LLM), Postman
+
+PROJECTS
+
+ Webular – Web Development Practice Platform
+   GitHub
+•	An interactive platform to practice web development challenges 
+•	Features: User authentication, code submission
+•	Admin panel for CRUD operations on courses, contests, and problems.
+•	Built with Node.js, Express.js, MongoDB, NextJS, Tailwind.
+
+Graphite – Interview mock Practice Platform
+  GitHub
+•	A platform made to practice HTML, CSS, JS basics with questions and a code editor.
+•	Features: CRUD operations for creating question for admins only.
+
+ Vire – YouTube Clone 
+   GitHub 
+•	Built a fully functional YouTube clone with video upload, playback, likes/dislikes, subscriptions, and      comments.
+•	Tech Stack: NextJS, Node.js, MongoDB, Express.
+•	Real-time video uploading and interaction
+
+EDUCATION
+Hooghly Engineering & Technology College  						  2022-2026
+B-Tech in Computer Science - 7.5			  
+Bholananda National Vidyalaya.
+XII (CBSE) – 72%                                   	2022 Pass out
+X (CBSE)  –  86%	2020 Pass out
+
+AWARD & HOBBIES 
+Won HETC Hackathon | Competitive programming 
